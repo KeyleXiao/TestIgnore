@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: ada9fbc6aaaf61f45a88e1b01606edec
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Mesh
+    100004: //RootNode
+    100006: Texture Group
+    100008: 'Texture Group '
+    100010: TextureLocators
+    100012: 'TextureLocators '
+    100014: TextureLocators  1
+    100016: Texture Group  1
+    100018: Skeleton_Joint
+    100020: 'Skeleton_Joint '
+    100022: Skeleton_Joint  1
+    100024: Skeleton_Joint  10
+    100026: Skeleton_Joint  11
+    100028: Skeleton_Joint  12
+    100030: Skeleton_Joint  2
+    100032: Skeleton_Joint  3
+    100034: Skeleton_Joint  4
+    100036: Skeleton_Joint  5
+    100038: Skeleton_Joint  6
+    100040: Skeleton_Joint  7
+    100042: Skeleton_Joint  8
+    100044: Skeleton_Joint  9
+    100046: 'Texture Group  '
+    100048: 'TextureLocators  '
+    100050: 'Skeleton_Joint  '
+    100052: Skeleton_Joint   1
+    100054: Skeleton_Joint   10
+    100056: Skeleton_Joint   11
+    100058: Skeleton_Joint   2
+    100060: Skeleton_Joint   3
+    100062: Skeleton_Joint   4
+    100064: Skeleton_Joint   5
+    100066: Skeleton_Joint   6
+    100068: Skeleton_Joint   7
+    100070: Skeleton_Joint   8
+    100072: Skeleton_Joint   9
+    100074: TextureLocators   1
+    400000: Camera
+    400002: Mesh
+    400004: //RootNode
+    400006: Texture Group
+    400008: 'Texture Group '
+    400010: TextureLocators
+    400012: 'TextureLocators '
+    400014: TextureLocators  1
+    400016: Texture Group  1
+    400018: Skeleton_Joint
+    400020: 'Skeleton_Joint '
+    400022: Skeleton_Joint  1
+    400024: Skeleton_Joint  10
+    400026: Skeleton_Joint  11
+    400028: Skeleton_Joint  12
+    400030: Skeleton_Joint  2
+    400032: Skeleton_Joint  3
+    400034: Skeleton_Joint  4
+    400036: Skeleton_Joint  5
+    400038: Skeleton_Joint  6
+    400040: Skeleton_Joint  7
+    400042: Skeleton_Joint  8
+    400044: Skeleton_Joint  9
+    400046: 'Texture Group  '
+    400048: 'TextureLocators  '
+    400050: 'Skeleton_Joint  '
+    400052: Skeleton_Joint   1
+    400054: Skeleton_Joint   10
+    400056: Skeleton_Joint   11
+    400058: Skeleton_Joint   2
+    400060: Skeleton_Joint   3
+    400062: Skeleton_Joint   4
+    400064: Skeleton_Joint   5
+    400066: Skeleton_Joint   6
+    400068: Skeleton_Joint   7
+    400070: Skeleton_Joint   8
+    400072: Skeleton_Joint   9
+    400074: TextureLocators   1
+    2300000: Mesh
+    3300000: Mesh
+    4300000: Mesh
+    7400000: modo_Anim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: modo_Anim
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Skeleton_Joint
+        weight: 1
+      - path: 'Skeleton_Joint/Skeleton_Joint '
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  1
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  1/Skeleton_Joint  7
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  2
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  2/Skeleton_Joint  8
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  3
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  3/Skeleton_Joint  9
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  4
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  4/Skeleton_Joint  10
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  5
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  5/Skeleton_Joint  11
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  6
+        weight: 1
+      - path: Skeleton_Joint/Skeleton_Joint /Skeleton_Joint  6/Skeleton_Joint  12
+        weight: 1
+      - path: Texture Group
+        weight: 1
+      - path: 'Texture Group '
+        weight: 1
+      - path: 'Texture Group  '
+        weight: 1
+      - path: TextureLocators
+        weight: 1
+      - path: 'TextureLocators '
+        weight: 1
+      - path: 'TextureLocators  '
+        weight: 1
+      - path: TextureLocators  1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

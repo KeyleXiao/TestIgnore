@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: c6cafdd0f2bcb7849b5fb4fe8fb32502
+labels:
+- furniture
+- postapocalyptic
+- modular
+- dungeon
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: closet2 1
+    100004: doorLeft001
+    100006: doorLeftLow001
+    100008: doorRight001
+    100010: doorRightLow001
+    400000: //RootNode
+    400002: closet2 1
+    400004: doorLeft001
+    400006: doorLeftLow001
+    400008: doorRight001
+    400010: doorRightLow001
+    2300000: closet2 1
+    2300002: doorLeft001
+    2300004: doorLeftLow001
+    2300006: doorRight001
+    2300008: doorRightLow001
+    3300000: closet2 1
+    3300002: doorLeft001
+    3300004: doorLeftLow001
+    3300006: doorRight001
+    3300008: doorRightLow001
+    4300000: doorLeft001
+    4300002: doorRight001
+    4300004: doorRightLow001
+    4300006: closet2
+    4300008: doorLeftLow001
+    6400000: closet2 1
+    6400002: doorLeft001
+    6400004: doorLeftLow001
+    6400006: doorRight001
+    6400008: doorRightLow001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

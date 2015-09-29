@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 482bcfcca2d979646853823eecaff1c0
+timeCreated: 1442736103
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ref_space:cube
+    100004: Ref_space:cube2
+    100006: Ref_space:cube3
+    100008: Ref_space:grid
+    100010: Ref_space:grid1
+    100012: Ref_space:main_gate1:headusOBJexport
+    100014: Ref_space:main_gate1:main_gate1
+    100016: Ref_space:main_gate1:polymsh_detached
+    100018: Ref_space:main_gate2:headusOBJexport
+    100020: Ref_space:main_gate2:main_gate2
+    100022: Ref_space:main_gate2:polymsh_detached
+    100024: Ref_space:main_gate3:headusOBJexport
+    100026: Ref_space:main_gate3:main_gate3
+    100028: Ref_space:main_gate3:polymsh_detached
+    100030: Ref_space:main_gate:headusOBJexport
+    100032: Ref_space:main_gate:main_gate
+    100034: Ref_space:main_gate:polymsh_detached
+    100036: Ref_space:polymsh
+    100038: Ref_space:polymsh_detached
+    400000: //RootNode
+    400002: Ref_space:cube
+    400004: Ref_space:cube2
+    400006: Ref_space:cube3
+    400008: Ref_space:grid
+    400010: Ref_space:grid1
+    400012: Ref_space:main_gate1:headusOBJexport
+    400014: Ref_space:main_gate1:main_gate1
+    400016: Ref_space:main_gate1:polymsh_detached
+    400018: Ref_space:main_gate2:headusOBJexport
+    400020: Ref_space:main_gate2:main_gate2
+    400022: Ref_space:main_gate2:polymsh_detached
+    400024: Ref_space:main_gate3:headusOBJexport
+    400026: Ref_space:main_gate3:main_gate3
+    400028: Ref_space:main_gate3:polymsh_detached
+    400030: Ref_space:main_gate:headusOBJexport
+    400032: Ref_space:main_gate:main_gate
+    400034: Ref_space:main_gate:polymsh_detached
+    400036: Ref_space:polymsh
+    400038: Ref_space:polymsh_detached
+    2300000: Ref_space:cube
+    2300002: Ref_space:cube3
+    2300004: Ref_space:grid
+    2300006: Ref_space:grid1
+    2300008: Ref_space:main_gate1:headusOBJexport
+    2300010: Ref_space:main_gate1:polymsh_detached
+    2300012: Ref_space:main_gate2:headusOBJexport
+    2300014: Ref_space:main_gate2:polymsh_detached
+    2300016: Ref_space:main_gate3:headusOBJexport
+    2300018: Ref_space:main_gate3:polymsh_detached
+    2300020: Ref_space:main_gate:headusOBJexport
+    2300022: Ref_space:main_gate:polymsh_detached
+    2300024: Ref_space:polymsh
+    2300026: Ref_space:polymsh_detached
+    3300000: Ref_space:cube
+    3300002: Ref_space:cube3
+    3300004: Ref_space:grid
+    3300006: Ref_space:grid1
+    3300008: Ref_space:main_gate1:headusOBJexport
+    3300010: Ref_space:main_gate1:polymsh_detached
+    3300012: Ref_space:main_gate2:headusOBJexport
+    3300014: Ref_space:main_gate2:polymsh_detached
+    3300016: Ref_space:main_gate3:headusOBJexport
+    3300018: Ref_space:main_gate3:polymsh_detached
+    3300020: Ref_space:main_gate:headusOBJexport
+    3300022: Ref_space:main_gate:polymsh_detached
+    3300024: Ref_space:polymsh
+    3300026: Ref_space:polymsh_detached
+    4300000: Ref_space:main_gate:headusOBJexport
+    4300002: Ref_space:main_gate:polymsh_detached
+    4300004: Ref_space:main_gate1:headusOBJexport
+    4300006: Ref_space:main_gate1:polymsh_detached
+    4300008: Ref_space:main_gate2:headusOBJexport
+    4300010: Ref_space:main_gate2:polymsh_detached
+    4300012: Ref_space:main_gate3:headusOBJexport
+    4300014: Ref_space:main_gate3:polymsh_detached
+    4300016: Ref_space:cube
+    4300018: Ref_space:cube3
+    4300020: Ref_space:grid
+    4300022: Ref_space:grid1
+    4300024: Ref_space:polymsh
+    4300026: Ref_space:polymsh_detached
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

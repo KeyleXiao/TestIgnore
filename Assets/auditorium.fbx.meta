@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 00b45f71ddbe07a45821bf8f71143dd0
+timeCreated: 1442891838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: auditorium_full:auditorium
+    100004: auditorium_full:auditorium_B
+    100006: auditorium_full:cutains
+    100008: auditorium_full:polymsh1
+    100010: auditorium_full:polymsh_extracted
+    100012: auditorium_full:polymsh
+    100014: auditorium_full:polymsh_detached
+    100016: auditorium_full:headusOBJexport
+    100018: auditorium_full:cube1
+    100020: auditorium_full:grid1
+    100022: auditorium_full:polymsh2
+    100024: auditorium_full:polymsh3
+    100026: auditorium_full:polymsh4
+    100028: auditorium_full:polymsh_detached2
+    100030: auditorium_full:polymsh_detached3
+    100032: auditorium_full:polymsh_detached4
+    100034: auditorium_full:polymsh_detached5
+    100036: auditorium_full:polymsh_detached6
+    100038: auditorium_full:polymsh_detached7
+    100040: auditorium_full:polymsh_extracted1
+    100042: auditorium_full:curtain
+    100044: auditorium_full:metals
+    100046: auditorium_full:partA
+    100048: auditorium_full:partB
+    100050: auditorium_full:roofB
+    100052: auditorium_full:woodA
+    400000: //RootNode
+    400002: auditorium_full:auditorium
+    400004: auditorium_full:auditorium_B
+    400006: auditorium_full:cutains
+    400008: auditorium_full:polymsh1
+    400010: auditorium_full:polymsh_extracted
+    400012: auditorium_full:polymsh
+    400014: auditorium_full:polymsh_detached
+    400016: auditorium_full:headusOBJexport
+    400018: auditorium_full:cube1
+    400020: auditorium_full:grid1
+    400022: auditorium_full:polymsh2
+    400024: auditorium_full:polymsh3
+    400026: auditorium_full:polymsh4
+    400028: auditorium_full:polymsh_detached2
+    400030: auditorium_full:polymsh_detached3
+    400032: auditorium_full:polymsh_detached4
+    400034: auditorium_full:polymsh_detached5
+    400036: auditorium_full:polymsh_detached6
+    400038: auditorium_full:polymsh_detached7
+    400040: auditorium_full:polymsh_extracted1
+    400042: auditorium_full:curtain
+    400044: auditorium_full:metals
+    400046: auditorium_full:partA
+    400048: auditorium_full:partB
+    400050: auditorium_full:roofB
+    400052: auditorium_full:woodA
+    2300000: //RootNode
+    2300002: auditorium_full:auditorium
+    2300004: auditorium_full:auditorium_B
+    2300006: auditorium_full:cutains
+    2300008: auditorium_full:polymsh1
+    2300010: auditorium_full:polymsh_extracted
+    2300012: auditorium_full:polymsh
+    2300014: auditorium_full:polymsh_detached
+    2300016: auditorium_full:headusOBJexport
+    2300018: auditorium_full:cube1
+    2300020: auditorium_full:grid1
+    2300022: auditorium_full:polymsh2
+    2300024: auditorium_full:polymsh3
+    2300026: auditorium_full:polymsh4
+    2300028: auditorium_full:polymsh_detached2
+    2300030: auditorium_full:polymsh_detached3
+    2300032: auditorium_full:polymsh_detached4
+    2300034: auditorium_full:polymsh_detached5
+    2300036: auditorium_full:polymsh_detached6
+    2300038: auditorium_full:polymsh_detached7
+    2300040: auditorium_full:polymsh_extracted1
+    2300042: auditorium_full:curtain
+    2300044: auditorium_full:metals
+    2300046: auditorium_full:partA
+    2300048: auditorium_full:partB
+    2300050: auditorium_full:roofB
+    2300052: auditorium_full:woodA
+    3300000: //RootNode
+    3300002: auditorium_full:auditorium
+    3300004: auditorium_full:auditorium_B
+    3300006: auditorium_full:cutains
+    3300008: auditorium_full:polymsh1
+    3300010: auditorium_full:polymsh_extracted
+    3300012: auditorium_full:polymsh
+    3300014: auditorium_full:polymsh_detached
+    3300016: auditorium_full:headusOBJexport
+    3300018: auditorium_full:cube1
+    3300020: auditorium_full:grid1
+    3300022: auditorium_full:polymsh2
+    3300024: auditorium_full:polymsh3
+    3300026: auditorium_full:polymsh4
+    3300028: auditorium_full:polymsh_detached2
+    3300030: auditorium_full:polymsh_detached3
+    3300032: auditorium_full:polymsh_detached4
+    3300034: auditorium_full:polymsh_detached5
+    3300036: auditorium_full:polymsh_detached6
+    3300038: auditorium_full:polymsh_detached7
+    3300040: auditorium_full:polymsh_extracted1
+    3300042: auditorium_full:curtain
+    3300044: auditorium_full:metals
+    3300046: auditorium_full:partA
+    3300048: auditorium_full:partB
+    3300050: auditorium_full:roofB
+    3300052: auditorium_full:woodA
+    4300000: polymsh
+    4300002: auditorium_full:cutains
+    4300004: auditorium_full:auditorium_B
+    4300006: auditorium_full:auditorium
+    4300008: auditorium_full:polymsh1
+    4300010: auditorium_full:polymsh_extracted
+    4300012: auditorium_full:polymsh
+    4300014: auditorium_full:polymsh_detached
+    4300016: auditorium_full:headusOBJexport
+    4300018: auditorium_full:polymsh_detached2
+    4300020: auditorium_full:polymsh_detached3
+    4300022: auditorium_full:polymsh_detached4
+    4300024: auditorium_full:polymsh_detached5
+    4300026: auditorium_full:grid1
+    4300028: auditorium_full:polymsh_detached6
+    4300030: auditorium_full:cube1
+    4300032: auditorium_full:polymsh2
+    4300034: auditorium_full:polymsh3
+    4300036: auditorium_full:polymsh4
+    4300038: auditorium_full:polymsh_extracted1
+    4300040: auditorium_full:polymsh_detached7
+    4300042: auditorium_full:partB
+    4300044: auditorium_full:curtain
+    4300046: auditorium_full:roofB
+    4300048: auditorium_full:metals
+    4300050: auditorium_full:partA
+    4300052: auditorium_full:woodA
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
